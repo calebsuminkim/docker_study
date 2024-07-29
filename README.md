@@ -10,17 +10,13 @@
   
   <h2>운영체제 계열</h2>
   <ul> 
-    <ul>
-      <p>Windows계열</p>
-      <li>Windows</li>
-    </ul>
-    <ul>Linux계열</ul>
-      <ul>Apache계열</ul>
-        <li>Ubuntu</li>
-        <li>CentOS</li>
-      <ul>BSD계열</ul>
-        <li>macOS</li>
-
+    <p>Windows계열</p>
+    <li>Windows</li>
+  </ul>
+  <ul>Linux계열</ul>
+    <li>Ubuntu</li>
+    <li>CentOS</li>
+    <li>macOS</li>
   </ul>
   
 </html>
