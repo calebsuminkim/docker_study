@@ -9,12 +9,12 @@
   <p>컨테이너를 생성하기 위해서는 이미지가 필요하다.</p>
   
   <h2>운영체제 계열</h2>
-  <ul> 
-    Windows계열
+  <p>Windows계열</p>
+  <ul>
     <li>Windows</li>
   </ul>
+  <p>Linux계열</p>
   <ul>
-    Linux계열
     <li>Ubuntu</li>
     <li>CentOS</li>
     <li>macOS</li>
